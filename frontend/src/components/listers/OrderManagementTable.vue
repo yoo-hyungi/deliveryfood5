@@ -74,6 +74,7 @@
                     { text: "price", value: "price" },
                     { text: "orderId", value: "orderId" },
                     { text: "address", value: "address" },
+                    { text: "status", value: "status" },
                 ],
             orderManagement : [],
             newValue: {},
@@ -98,6 +99,7 @@
                 'price': 0,
                 'orderId': '',
                 'address': '',
+                'status': '',
             }
         },
         methods: {

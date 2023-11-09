@@ -116,6 +116,7 @@
                 'price': 0,
                 'orderId': '',
                 'address': '',
+                'status': '',
             }
         },
         methods:{

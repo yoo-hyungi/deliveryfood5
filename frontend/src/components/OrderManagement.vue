@@ -23,6 +23,7 @@
             <Number label="Price" v-model="value.price" :editMode="editMode" :inputUI="''"/>
             <String label="OrderId" v-model="value.orderId" :editMode="editMode" :inputUI="''"/>
             <String label="Address" v-model="value.address" :editMode="editMode" :inputUI="''"/>
+            <String label="Status" v-model="value.status" :editMode="editMode" :inputUI="''"/>
         </v-card-text>
 
         <v-card-actions>
